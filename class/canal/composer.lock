@@ -18,13 +18,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/clue/php-socket-raw/zipball/00ab102d061f6cdb895e79dd4d69140c7bda31cc",
                 "reference": "00ab102d061f6cdb895e79dd4d69140c7bda31cc",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "ext-sockets": "*",
@@ -69,23 +63,17 @@
         },
         {
             "name": "google/protobuf",
-            "version": "v3.13.0",
+            "version": "v3.19.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protocolbuffers/protobuf-php.git",
-                "reference": "fddc6c2439b190284f207143f6d37bf5b651cea6"
+                "reference": "6f0a54186f133aff98f49d0f36a32d4a4f7d4cbd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/fddc6c2439b190284f207143f6d37bf5b651cea6",
-                "reference": "fddc6c2439b190284f207143f6d37bf5b651cea6",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "url": "https://api.github.com/repos/protocolbuffers/protobuf-php/zipball/6f0a54186f133aff98f49d0f36a32d4a4f7d4cbd",
+                "reference": "6f0a54186f133aff98f49d0f36a32d4a4f7d4cbd",
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.5.0"
@@ -112,7 +100,7 @@
             "keywords": [
                 "proto"
             ],
-            "time": "2020-08-15T00:44:58+00:00"
+            "time": "2022-01-28T17:23:32+00:00"
         },
         {
             "name": "xingwenge/canal_php",
@@ -126,13 +114,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/xingwenge/canal-php/zipball/96f30d50fbce5b7da9b536145fdf21bee4214a0e",
                 "reference": "96f30d50fbce5b7da9b536145fdf21bee4214a0e",
-                "shasum": "",
-                "mirrors": [
-                    {
-                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
-                        "preferred": true
-                    }
-                ]
+                "shasum": ""
             },
             "require": {
                 "clue/socket-raw": "^1.4",
