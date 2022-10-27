@@ -1,0 +1,5 @@
+{
+    "require": {
+        "alibabacloud/green": "^1.8"
+    }
+}
